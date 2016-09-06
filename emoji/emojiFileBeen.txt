@@ -1,0 +1,1 @@
+{"emojiFileBeen": [{"fileType": "hh", "fileId": "sf-emoji-sample-hh", "fileName": "sf-emoji-sample-hh_hh"}, {"fileType": "jj", "fileId": "sf-emoji-sample-mm", "fileName": "sf-emoji-sample-mm_jj"}, {"fileType": "fd", "fileId": "sf-emoji-sample", "fileName": "sf-emoji-sample_fd"}]}
