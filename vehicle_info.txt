@@ -1,0 +1,1 @@
+{"head":{"code":"10000","msg":"查询成功"},"para":{"addr":"广州市天河区中山大道上社街道第九街220号","identity_no":"444222198510114425","phone":"13822881234","plate_no":"A00001","register_time":"20171020000000","vehicle_background":[{"name":"违章","quarter_coun":2},{"name":"被盗抢机动车","quarter_coun":2}],"vehicle_brand":"丰田","vehicle_owner":"张三"}}
