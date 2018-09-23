@@ -1,1 +1,49 @@
-{"head":{"code":"10000","msg":"查询成功"},"para":{"clue":[{"clue_id":"003","clue_title":"这是测试讯问的线索","pic":[{"id":"114","name":"这是线索图片"}]},{"clue_content":"这里没什么内容不用看","clue_id":"001","clue_provider":"张三","clue_title":"这是测试线索","discovery_time":"20171009000000","pic":[{"id":"004","name":"这是线索图片"}],"provider_contact_way":"13812344321"},{"clue_content":"这里没什么内容不用看","clue_id":"002","clue_provider":"栗子","clue_title":"这是测试询问的线索","discovery_time":"20171029110403","pic":[{"id":"008","name":"这是线索图片"}],"provider_contact_way":"13812344321"}]}}
+﻿{
+    "head": {
+        "code": "10000",
+        "msg": "查询成功"
+    },
+    "para": {
+        "clue": [
+            {
+                "clue_id": "003",
+                "clue_title": "这是测试讯问的索",
+                "discovery_time": "20171009000000",
+                "pic": [
+                    {
+                        "id": "114",
+                        "name": "这是线索图片"
+                    }
+                ]
+            },
+            {
+                "clue_content": "这里没什么内容不用看",
+                "clue_id": "001",
+                "clue_provider": "张三",
+                "clue_title": "这是测试线索",
+                "discovery_time": "20171009000000",
+                "pic": [
+                    {
+                        "id": "004",
+                        "name": "这是线索图片"
+                    }
+                ],
+                "provider_contact_way": "13812344321"
+            },
+            {
+                "clue_content": "这里没什么内容不用看",
+                "clue_id": "002",
+                "clue_provider": "栗子",
+                "clue_title": "这是测试询问的线索",
+                "discovery_time": "20171029110403",
+                "pic": [
+                    {
+                        "id": "008",
+                        "name": "这是线索图片"
+                    }
+                ],
+                "provider_contact_way": "13812344321"
+            }
+        ]
+    }
+}
